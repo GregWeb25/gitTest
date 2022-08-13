@@ -4,3 +4,7 @@ body{
 p{
     color:darkgrey;
 }
+button {
+    border: 2px blue solid;
+    color:  blue;;
+}
